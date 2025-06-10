@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # ☕ Welcome to *Café, Con Amor*
 
 Follow Andrea’s journey as she leaves behind a life of expectations to chase her dreams.

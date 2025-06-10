@@ -1,10 +1,11 @@
 baseurl: "/cafe-con-amor"
-remote_theme: poole/hyde
-plugins:
-  - jekyll-remote-theme
-markdown: kramdown
-highlighter: rouge
+url: "https://emiibijutsu.github.io"
+
 collections:
   chapters:
     output: true
     permalink: /chapters/:title/
+
+remote_theme: poole/hyde
+plugins:
+  - jekyll-remote-theme

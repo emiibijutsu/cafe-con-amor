@@ -3,3 +3,7 @@ plugins:
   - jekyll-remote-theme
 markdown: kramdown
 highlighter: rouge
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:title/

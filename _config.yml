@@ -1,6 +1,6 @@
 title: Café, Con Amor
 description: After walking away from law school — and the life her parents demanded — Andrea opens a small café in East Village. It’s not what they imagined, but it’s hers. Between café con leches and familiar faces, she begins rebuilding a life filled with passion, healing, and unexpected connection — including a certain sleepy-eyed EMT who keeps showing up for more than just coffee. A story about finding freedom, and love — one cup at a time.
-
+baseurl: "/cafeconamor"
 remote_theme: poole/hyde
 plugins:
   - jekyll-remote-theme

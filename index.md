@@ -3,7 +3,7 @@
 
 <!-- Logo -->
 <p style="text-align: center;">
-  <img src="{{ '/assets/img/logo.png' | relative_url }}";">
+  <img src="{{ '/assets/img/logo.png' | relative_url }}">
 </p>
 
 # Welcome to *Café, Con Amor*

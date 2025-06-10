@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to *Café, Con Amor* ☕💖
 
 ## 📚 Read the Story

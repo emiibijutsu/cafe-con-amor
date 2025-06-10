@@ -1,0 +1,36 @@
+/* Custom Hyde/Poole style override for Cafe con Amor */
+
+body {
+  font-family: 'Georgia', serif;
+  background: #fff8f0;
+  color: #333;
+  max-width: 700px;
+  margin: 2em auto;
+  padding: 1em;
+}
+
+a {
+  color: #8b4513;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2 {
+  color: #5a2d0c;
+}
+
+ul {
+  padding-left: 1.2em;
+}
+
+footer {
+  display: none;
+}
+
+/* Hide sidebar if it's showing */
+.sidebar, .sidebar-nav {
+  display: none;
+}

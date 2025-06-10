@@ -1,7 +1,10 @@
 <!-- Inject custom CSS -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-
+<!-- Logo -->
+<p style="text-align: center;">
+  <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="Cafe con Amor logo" style="max-width: 200px;">
+</p>
 
 # Welcome to *Café, Con Amor*
 

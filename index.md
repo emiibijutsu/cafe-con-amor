@@ -13,7 +13,7 @@ After walking away from law school — and the life her parents demanded — And
 ## Read the Chapters
 ### Season 1: Slowly Brewing
 <ul>
-  {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for chapter in site.chapters %}
+    <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
   {% endfor %}
 </ul>

@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Chapter 1"
-date: "June 10, 2025"
+layout: default
 ---
 
 <p style="text-align: right;">

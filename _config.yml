@@ -4,3 +4,5 @@ baseurl: "/cafeconamor"
 remote_theme: poole/hyde
 plugins:
   - jekyll-remote-theme
+markdown: kramdown
+highlighter: rouge

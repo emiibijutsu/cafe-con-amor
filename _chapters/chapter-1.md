@@ -58,8 +58,7 @@ Lexi peeks up from behind the counter, eyes wide. Nina doesn’t seem to notice 
 
 At the counter, Andrea smiles to herself, watching the scene unfold. She may not have had much luck in love herself, but there's something comforting about watching it bloom in others — even from afar.
 
-A few hours go by and the café gets its occasional afternoon pick-me-up orders from young interns and tourists.  
-The lull between orders is long enough to get dangerous.
+A few hours go by and the café gets its occasional afternoon pick-me-up orders from young interns and tourists. The lull between orders is long enough to get dangerous.
 
 ///
 

@@ -5,6 +5,8 @@ layout: default
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
+# Chapter 1
+
 The warm, familiar scent of Café Bustelo fills the air as the morning rush begins.
 
 Behind the register, Lexi, an Afro-Latina woman with effortless charm, takes orders with practiced ease — from the simple to the absurdly complex. At the bar, Raphael, a focused Cuban man, moves with quiet precision as he crafts everything from iced black coffees to salted caramel lattes, each pour smooth and intentional. Beside him, a sharp-eyed Puerto Rican woman calls out names above the morning rush, checking tickets and navigating the swarm of suits waiting impatiently for their 7:45 fix.

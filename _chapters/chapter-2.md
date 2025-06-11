@@ -72,6 +72,7 @@ Without a word, she places the plate gently beside Nina’s laptop and takes a s
 Nina opens her eyes and smiles. “Nope. Honestly, I don’t even know how I’m surviving right now.” She chuckles softly. “It’s barely the start of the semester, and I’m already over it.”
 
 “I hear that,” Lexi says. “Back in undergrad, I had this one literature class where we had to read a massive novel every week. I barely made it.”
+
 She laughs. “Though… most of my homework was watching movies. Film history isn’t as easy as it sounds, I swear.”
 
 Nina chuckles, sitting up a little straighter. “I can only imagine. Biology’s just… so broad. It’s like, every time I think I’ve got it, there’s another 50 things to memorize.”
@@ -79,9 +80,12 @@ Nina chuckles, sitting up a little straighter. “I can only imagine. Biology’
 “You’re going for biostats, right?”
 
 “Yeah. I want to be a biostatistician eventually. So this—” she gestures to the chaos on her screen “—is the price I pay.”
+
 “Respect,” Lexi grins. “How long have you been studying biology?”
+
 “Since undergrad. My parents wanted me to be a doctor like them, but I couldn’t deal with the blood. Like, I can dissect frogs just fine… but put me in front of an open chest cavity and I will pass out.”
 They both laugh — the kind of laugh that lifts tension, even if just for a moment.
+
 “I guess I should get back to work before my boss fires me,” Lexi says with a grin. “I’ve got bills to pay… and a gecko to feed.”
 
 Nina smiles, eyes twinkling. “Well, I won’t keep you, Gecko Mama.”

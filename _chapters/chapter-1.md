@@ -130,6 +130,6 @@ Andrea wipes down the same spot on the counter, lost in thought.
 Outside, the streetlights flicker on.
 
 <p> style="text-align: left;"
-  <a> href="{{ '/' | relative_url }}"← Back to Home</a>
+  <a href="{{ '/' | relative_url }}"← Back to Home</a>
 </p>
 

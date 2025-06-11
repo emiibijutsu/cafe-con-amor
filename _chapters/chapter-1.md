@@ -3,9 +3,7 @@ title: "chapter-1"
 layout: default
 ---
 
-<p style="text-align: right;">
-  <a href="{{ '/' | relative_url }}">← Back to Home</a>
-</p>
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 The warm, familiar scent of **Café Bustelo** fills the air as the morning rush begins.
 
@@ -128,7 +126,7 @@ Andrea wipes down the same spot on the counter, lost in thought.
 
 Outside, the streetlights flicker on.
 
-<p style="text-align: right;">
+<p style="text-align: left;">
   <a href="{{ '/' | relative_url }}">← Back to Home</a>
 </p>
 

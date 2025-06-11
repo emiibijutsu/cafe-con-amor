@@ -26,21 +26,35 @@ Behind the counter, Andrea tends to the baked goods in the glass dome while Lexi
 Lexi flushes.  
 
 “I just like what she’s wearing today,” she mutters. “She has great fashion sense, that’s all.”  
+
 “Mhm. Then go ask her about her outfit.”  
+
 “N-no! I’m not bothering her while she’s working.”  
+
 “Suit yourself.”
 
 Raphael casually heads toward Nina’s table. Lexi immediately ducks behind the counter.
 
 “Hey,” he says, giving a small wave just at the edge of Nina’s vision.  
-“Oh, hey. What’s up?”  
+
+Nina looks up. “Oh, hey. What’s up?”
+
 “Not much. Still writing that paper?”  
-“Yeah. It’s due tonight and my brain’s fried — I’ve been drowning in articles about this genetic condition.”  
-“Yikes. Anyway, my friend was wondering where she could get your outfit.”  
-“Ah. Well, I like thrifting in the fashion district. It can be pricey, though, so sometimes I hit shops in Jersey.”  
-“This one? Ten bucks at a spot near Journal Square.”  
-“You just made someone’s day.”  
-“Tell her thanks.”
+
+“Yeah. It’s due tonight and my brain’s fried — I’ve been drowning in articles about this genetic condition.”
+
+“Yikes. Anyway, my friend was wondering where she could get your outfit.”
+
+Nina chuckles. “Ah. Well, I like thrifting in the fashion district. It can be pricey, though, so sometimes I hit shops in Jersey.”
+
+Nina smiles and adjusts the sleeve of her jacket. “This one? Ten bucks at a spot near Journal Square.”
+
+Raphael grins. “You just made someone’s day.”
+
+Lexi peeks up from behind the counter, eyes wide. Nina doesn’t seem to notice — or maybe she’s just being kind.
+
+“Tell her thanks,” Nina says, returning to her screen with a soft smile.
+
 
 At the counter, Andrea smiles to herself, watching the scene unfold. She may not have had much luck in love herself, but there's something comforting about watching it bloom in others — even from afar.
 

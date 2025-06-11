@@ -128,4 +128,6 @@ She stares at the man — his calm presence, the kind of quiet that only comes a
 
 The lights are off. But something about this moment flickers.
 
-
+<p style="text-align: left;">
+  <a href="{{ '/' | relative_url }}">← Back to Home</a>
+</p>

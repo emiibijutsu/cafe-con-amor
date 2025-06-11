@@ -1,4 +1,11 @@
+---
+title: "chapter-2"
+layout: default
+---
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+# Chapter 2
 
 “¡Buenas! Welcome to Café Con Amor! What can I get started for you?” Lexi beams, her warmth effortlessly drawing in every customer who walked through the door.
 
@@ -120,3 +127,5 @@ Andrea doesn’t answer right away.
 She stares at the man — his calm presence, the kind of quiet that only comes after chaos. Something about him feels... familiar. 
 
 The lights are off. But something about this moment flickers.
+
+

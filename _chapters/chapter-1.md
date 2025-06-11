@@ -51,34 +51,44 @@ The lull between orders is long enough to get dangerous.
 
 Lexi stacks cups into a perfect little tower on the counter. Raphael leans against the espresso machine, watching her like she’s building the Leaning Tower of Latte.
 
-“You know that’s a health code violation, right?”  
-“So is your playlist.”  
-“Excuse me—this is classic *Bad Bunny*.”  
-“Honey, your *Latino Heartbreak Hits* playlist doesn’t give a café vibe.”  
-“Well, what do you suggest? *Lo-fi hip-hop beats to cry to*?”  
-“It’s a vibe.”
+“You know that’s a health code violation, right?”
+
+Lexi glares. “So is your playlist.”
+
+Raphael gasps in mock offense. “Excuse me—this is classic Bad Bunny.”
+
+She smirks. “Honey, your ‘Latino Heartbreak Hits’ playlist doesn’t give a café vibe.”
+
+“Well, what do you suggest? Lo-fi hip-hop beats to cry to?”
+
+Lexi shrugs. “It’s a vibe.”
 
 He scrolls through the iPad and swaps the song. Something soft and jazzy replaces the reggaeton. They both pause.
 
-“…Okay, fine,” Raphael mutters. “This is nice.”  
-“Told you.”
+“…Okay, fine,” Raphael mutters. “This is nice.”
+
+Lexi beams. “Told you.”
 
 ///
 
 Raphael starts pulling espresso shots. Lexi watches, then playfully bumps him with her hip.
 
-“Bet I can pour a better heart.”  
+“Bet I can pour a better heart.”
+
 “Oh, we’re doing this?” he grins. “You really want to lose in front of all these… plants?”
 
 They each grab a milk pitcher. One customer wanders in but doesn’t interrupt — it’s clear something fun is happening. Andrea glances over from the pastry case and doesn’t say a word.
 
-Lexi finishes her pour first and turns her latte for Raphael to judge.  
-“That’s… definitely a shape. But hey, it’s an attempt!”  
+Lexi finishes her pour first and turns her latte for Raphael to judge.
+
+He raises an eyebrow. “That’s… definitely a shape. But hey, it’s an attempt!”
+
 “Rude.”
 
 He presents his. A beautifully layered heart within a heart. It’s perfect. Annoyingly perfect.
 
-“Ugh. I hate you.”  
+Lexi sighs. “Ugh. I hate you.”
+
 “You say that, but one day you’ll beg me to teach you my ways.”
 
 Andrea smiles to herself, overhearing the laughter. She says nothing, just wipes down the counter — letting the moment exist.
@@ -87,47 +97,55 @@ Andrea smiles to herself, overhearing the laughter. She says nothing, just wipes
 
 The afternoon slips by in golden tones. Customers thin out, sunlight fades, and the quiet buzz of espresso machines gives way to the low hum of evening jazz.
 
-Andrea wipes down the counter while Lexi stacks the last of the clean mugs. The front door is locked, the *Closed* sign flipped, and the café finally exhales.
+Andrea wipes down the counter while Lexi stacks the last of the clean mugs. The front door is locked, the Closed sign flipped, and the café finally exhales.
 
-“End of day magic,” Lexi says, stretching her arms with a yawn.  
-“More like end of day muscle aches,” Raphael mutters, hauling a box of oat milk from the back. “Pretty sure I’m aging backwards and forwards at the same time.”  
- “Go restock. I’m not letting you sneak out early again.”
+“End of day magic,” Lexi says, stretching her arms with a yawn.
 
-Raphael shoots her a mock glare and disappears into the back pantry.  
-Lexi follows behind him, sorting through the syrup shelf while Raphael checks the milk inventory.
+“More like end of day muscle aches,” Raphael mutters, hauling a box of oat milk from the back. “Pretty sure I’m aging backwards and forwards at the same time.”
 
- “Yo, is it weird that we go through more lavender syrup than caramel now?”  
- “Gays love lavender.”  
- “Explains a lot, actually.”
+Andrea chuckles. “Go restock. I’m not letting you sneak out early again.”
 
-Raphael grabs a bottle of caramel syrup, hesitates, then slowly sets it down.
+Raphael shoots her a mock glare and disappears into the back pantry. Lexi follows behind him, sorting through the syrup shelf while Raphael checks the milk inventory.
 
- “You okay?”
+“Yo, is it weird that we go through more lavender syrup than caramel now?”
 
-He stares ahead.
+Lexi shrugs. “Gays love lavender.”
 
- “…Do you remember that fire in the Bronx a couple years ago? The one with the girl who got pulled out just in time?”  
- “Yeah, wasn’t that the one your sister—?”  
- “Yeah.”
+Raphael smirks, setting down a crate. “Explains a lot, actually.”
 
- “She was the one they pulled out. I was there too. We were both inside.  
- I passed out from the smoke. Barely remember anything. Just heat, sirens, yelling.  
- But I remember someone’s hand on my arm. Cool, steady. Like it was the only real thing in the whole nightmare.”
+Raphael grabs a bottle of caramel syrup from a nearby shelf, hesitates for a second, then slowly sets it down.
 
- “I thought it was a dream… until months later, my sister told me someone stayed with her the whole ride to the hospital. Said he didn’t say much. Just held her hand. Told her she’d be okay.”
+Lexi notices. “You okay?”
 
- “You ever find out who it was?”  
- “Nah. Never got a name. EMTs don’t usually stick around. But she said his voice sounded tired. Like he’d seen too much and didn’t want anyone else to.”
+He stares ahead, unfocused.
+
+“…Do you remember that fire in the Bronx a couple years ago? The one with the girl who got pulled out just in time?”
+
+Lexi nods. “Yeah, wasn’t that the one your sister—?”
+
+“Yeah.” He exhales slowly. “She was the one they pulled out. I was there too. We were both inside.”
+Lexi pauses, not wanting to interrupt.
+
+“I passed out from the smoke. Barely remember anything. Just heat, sirens, yelling. But I remember someone’s hand on my arm. Cool, steady. Like it was the only real thing in the whole nightmare.”
+
+He stares at his hands for a second.
+
+“I thought it was a dream… until months later, my sister told me someone stayed with her the whole ride to the hospital. Said he didn’t say much. Just held her hand. Told her she’d be okay.”
+
+Lexi swallows. “You ever find out who it was?”
+
+Raphael shakes his head. “Nah. Never got a name. EMTs don’t usually stick around. But she said his voice sounded tired. Like he’d seen too much and didn’t want anyone else to.”
 
 Andrea walks in with a tray of clean cups, catching the tail end of the story — but she doesn’t ask questions. She just gives Raphael a small nod and keeps moving.
 
-The silence that follows isn’t heavy. It’s full.  
-Raphael doesn’t say anything else.  
-The jazz hums in the background.  
-Lexi goes back to sorting cups.  
+The silence that follows isn’t heavy. It’s full.
+Raphael doesn’t say anything else.
+The jazz hums in the background.
+Lexi goes back to sorting cups.
 Andrea wipes down the same spot on the counter, lost in thought.
 
 Outside, the streetlights flicker on.
+
 
 <p style="text-align: left;">
   <a href="{{ '/' | relative_url }}">← Back to Home</a>

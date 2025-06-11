@@ -47,7 +47,7 @@ At the counter, Andrea smiles to herself, watching the scene unfold. She may not
 A few hours go by and the café gets its occasional afternoon pick-me-up orders from young interns and tourists.  
 The lull between orders is long enough to get dangerous.
 
----
+///
 
 Lexi stacks cups into a perfect little tower on the counter. Raphael leans against the espresso machine, watching her like she’s building the Leaning Tower of Latte.
 
@@ -63,7 +63,7 @@ He scrolls through the iPad and swaps the song. Something soft and jazzy replace
 “…Okay, fine,” Raphael mutters. “This is nice.”  
 “Told you.”
 
----
+///
 
 Raphael starts pulling espresso shots. Lexi watches, then playfully bumps him with her hip.
 
@@ -83,7 +83,7 @@ He presents his. A beautifully layered heart within a heart. It’s perfect. Ann
 
 Andrea smiles to herself, overhearing the laughter. She says nothing, just wipes down the counter — letting the moment exist.
 
----
+///
 
 The afternoon slips by in golden tones. Customers thin out, sunlight fades, and the quiet buzz of espresso machines gives way to the low hum of evening jazz.
 

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1"
+title: "chapter-1"
 layout: default
 ---
 

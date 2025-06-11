@@ -5,13 +5,13 @@ layout: default
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-The warm, familiar scent of **Café Bustelo** fills the air as the morning rush begins.
+The warm, familiar scent of Café Bustelo fills the air as the morning rush begins.
 
-Behind the register, **Lexi**, an Afro-Latina woman with effortless charm, takes orders with practiced ease — from the simple to the absurdly complex. At the bar, **Raphael**, a focused Cuban man, moves with quiet precision as he crafts everything from iced black coffees to salted caramel lattes, each pour smooth and intentional. Beside him, a sharp-eyed Puerto Rican woman calls out names above the morning rush, checking tickets and navigating the swarm of suits waiting impatiently for their 7:45 fix.
+Behind the register, Lexi, an Afro-Latina woman with effortless charm, takes orders with practiced ease — from the simple to the absurdly complex. At the bar, Raphael, a focused Cuban man, moves with quiet precision as he crafts everything from iced black coffees to salted caramel lattes, each pour smooth and intentional. Beside him, a sharp-eyed Puerto Rican woman calls out names above the morning rush, checking tickets and navigating the swarm of suits waiting impatiently for their 7:45 fix.
 
 > “Café con leche for John! Café aguado for Stephanie!”
 
-Behind the counter, **Andrea** moves with purpose and pride. She never imagined herself running a café when she was little; what she truly dreamed of was sharing the creativity and love that lived inside her with the people around her. Coffee simply became the canvas that finally let her do it.
+Behind the counter, Andrea moves with purpose and pride. She never imagined herself running a café when she was little; what she truly dreamed of was sharing the creativity and love that lived inside her with the people around her. Coffee simply became the canvas that finally let her do it.
 
 As the last customer grabs their drink and the door swings shut behind them, a collective sigh of relief escapes the crew. With the morning rush behind them, they settle into a calmer rhythm, moving through the rest of the morning with practiced ease and a quiet sense of triumph.
 
